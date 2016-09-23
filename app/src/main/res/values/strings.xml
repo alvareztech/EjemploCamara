@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploCamara</string>
+    <string name="tomarFoto">Tomar foto</string>
+    <string name="tomarFotoYGuardar">Tomar foto y guardar</string>
+</resources>
