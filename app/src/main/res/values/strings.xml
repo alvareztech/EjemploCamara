@@ -2,4 +2,6 @@
     <string name="app_name">EjemploCamara</string>
     <string name="tomarFoto">Tomar foto</string>
     <string name="tomarFotoYGuardar">Tomar foto y guardar</string>
+    <string name="foto_de_galeria">Foto de galeria</string>
+    <string name="foto_de_documentos">foto de documentos</string>
 </resources>

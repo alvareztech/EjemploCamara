@@ -23,6 +23,17 @@
         android:text="@string/tomarFotoYGuardar"
         android:layout_width="match_parent"
         android:layout_height="48dp" />
+    <Button
+        android:onClick="tomarFotoGaleria"
+        android:text="@string/foto_de_galeria"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+    <Button
+        android:onClick="tomarDocumentos"
+        android:text="@string/foto_de_documentos"
+        android:layout_width="match_parent"
+        android:layout_height="48dp" />
+
 
     <ImageView
         android:id="@+id/fotoImageView"
